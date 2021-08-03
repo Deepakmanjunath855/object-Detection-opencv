@@ -1,4 +1,4 @@
 # object-Detection-opencv-with-distance-calculation
 
-![Alt text](spamoutput.PNG?raw=true "Title")
+![Alt text](object_detect_output.PNG?raw=true "Title")
 
